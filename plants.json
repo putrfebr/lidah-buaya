@@ -1,0 +1,16 @@
+[
+    {
+        "name": "Lidah Buaya",
+        "scientificName": "Aloe Vera",
+        "image": "img/lidah-buaya.jpeg",
+        "otherNames": "Aloe",
+        "benefits": [
+            " Lidah buaya memiliki sifat anti-inflamasi, antioksidan, dan dapat membantu melembapkan kulit. Bermanfaat untuk mengatasi luka bakar, meredakan iritasi kulit, dan menjaga kesehatan rambut."
+
+        ],
+        "uses": [
+            "Gel lidah buaya sering digunakan sebagai bahan utama dalam produk perawatan kulit dan rambut, serta dalam minuman herbal untuk kesehatan pencernaan."
+
+        ]
+    }
+]
